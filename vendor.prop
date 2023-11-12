@@ -18,7 +18,7 @@ vendor.audio.offload.gapless.enabled=false
 vendor.voice.path.for.pcm.voip=false
 
 # Bluetooth
-bluetooth.device.default_name=moto g(7) plus
+bluetooth.device.default_name= Moto G7 Plus
 
 # Display
 ro.hardware.vulkan=sdm660
